@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "e2e-project-tags": {
+      "implementation": "./src/generators/e2e-project-tags",
+      "schema": "./src/generators/e2e-project-tags/schema.json",
+      "description": "Generator e2e-project-tags"
+    }
+  }
+}
